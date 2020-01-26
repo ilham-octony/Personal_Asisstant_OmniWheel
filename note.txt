@@ -1,0 +1,6 @@
+
+
+set FLASK_APP=face_rcognition_web.py
+flask run --host=0.0.0.0
+
+C:\Users\lenovo\Desktop\Desktop Data\New folder (2)
